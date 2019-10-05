@@ -1,6 +1,6 @@
 # Timewatch
 Redmine üzerinde harcanan zaman kayıtlarını temel alarak, e-posta yolu ile bilgi verip, iş kayıtlarının otomatik güncellenmesini sağlar.
-Redmine v3 uyumludur.
+Redmine v4 uyumludur.
 
 ## Özellikleri
 1. Özel Zaman Eşiği: Bir iş kaydına girilen toplam harcanan zaman; eklenti ayarlarında belirtilen zaman aralığı değerinin (Örn: 10 saat) yine eklenti ayarlarında belirtilen oranını (Örn: %80) geçtiği zaman iş kaydına yeni bir girdi ekler.
