@@ -1,7 +1,7 @@
 # Timewatch
 
 Based on spend time logs on Redmine, Timewatch informs user with email, also it allows you to update issues automatically. 
-It is compatible with Redmine v3.
+It is compatible with Redmine v4.
 
 ## Features
 
